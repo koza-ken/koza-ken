@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koza-ken&custom_title=hinata's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=koza-ken&custom_title=kozaken's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="900" />
 </div>
 
 ## 🍑 Tech Stack
@@ -19,7 +19,7 @@
 
 ## 🍑 Connect with Me
 
-<div align="center">
+<div>
   <a href="https://github.com/koza-ken">
     <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
   </a>
