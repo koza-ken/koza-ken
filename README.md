@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=koza-ken&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 📊 **GitHub Analytics**
+## 🍑 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=koza-ken&theme=transparent&border_radius=10&starting_year=2025" alt="readme streak stats" />
@@ -15,4 +15,16 @@
 </div>
 
 ## 🍑 Tech Stack
-![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react,nextjs)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react)
+
+## 🍑 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/koza-ken">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/zzken2zz">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
+  </a>
+</div>
