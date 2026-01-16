@@ -15,6 +15,10 @@
 ## 🍑 Tech Stack
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react)
 
+## 🍑 Articles
+- [【Rails】モジュール強度の視点で考える、Fat Modelを避ける責務の分離](https://qiita.com/koza-ken/items/32114d23f03e57a5df38)
+- [【Rails】「ログイン」や「ログイン状態の保持」について調べてみた（devise : rememberableモジュール）](https://qiita.com/koza-ken/items/b1b0e2a56ece4b924f6d)
+
 ## 🍑 Connect with Me
 
 <div>
