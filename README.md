@@ -15,6 +15,27 @@
 ## 🍑 Tech Stack
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react)
 
+## 🍑 Main Project
+### RakuCi
+<div align="left">
+
+[![rakuci](https://github-readme-stats-puce-six-20.vercel.app/api/pin/?username=koza-ken&repo=rakuci&theme=tokyonight&hide_border=true)](https://github.com/koza-ken/rakuci)
+
+</div>
+
+<a href="https://github.com/koza-ken/rakuci">
+  <img width="600" height="300" alt="rakuci_ogp" src="https://github.com/user-attachments/assets/09a70a83-e811-4420-8b01-965d6c812508" />
+</a>
+
+<p>
+  <a href="https://github.com/koza-ken/rakuci"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://rakuci.com"><img src="https://img.shields.io/badge/-アプリを見る-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="App"></a>
+</p>
+
+旅行を管理するWebアプリです。  
+旅行先を「カード」単位で作成して、そのカードに、観光地や目的地を追加して整理することができます。
+
+　
 ## 🍑 Articles
 - [【Rails】モジュール強度の視点で考える、Fat Modelを避ける責務の分離](https://qiita.com/koza-ken/items/32114d23f03e57a5df38)
 - [【Rails】「ログイン」や「ログイン状態の保持」について調べてみた（devise : rememberableモジュール）](https://qiita.com/koza-ken/items/b1b0e2a56ece4b924f6d)
