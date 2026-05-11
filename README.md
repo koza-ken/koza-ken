@@ -15,6 +15,7 @@
 ## 🍑 Tech Stack
 ![](https://skillicons.dev/icons?i=html,css,js,typescript,ruby,rails,react)
 
+<!--
 ## 🍑 Main Project
 ### RakuCi
 <div align="left">
@@ -51,3 +52,4 @@
     <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
   </a>
 </div>
+-->
