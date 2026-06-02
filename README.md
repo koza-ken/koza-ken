@@ -48,8 +48,6 @@
     <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/zzken2zz">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" alt="Twitter" />
-  </a>
+
 </div>
 -->
